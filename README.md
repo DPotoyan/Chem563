@@ -1,7 +1,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPotoyan/Chem563/master)
 
-# Materials for the course Chem563: Statistical Mechanics, ISU Spring 2020 
+# Materials for the course Chem563: Statistical Mechanics, ISU Spring 2021 
 
 **Instructor:** Davit Potoyan
 
@@ -13,17 +13,13 @@ This repository contains computational notebooks for the course Chem563 Intro to
 
 1. Lecture slides giving brief summary of key ideas and equation. This is for quick reviewing of discussed material.
 2. PDF files of relevant research papers, book chapters and other extra reading material. This is for bedtime reading.  
-3. Jupyter-notebooks `notebook.ipynb` and some `file.py`  files containing short snippets for doing various numerical experiments.
+3. Jupyter-notebooks `notebook.ipynb` and some python files `file.py` containing short snippets for doing various numerical experiments.
 
 ### 1. How to run notebooks?
 
-We will use JupyterHub at ISU with environment and all relevant python package conveniently pre-installed for us. <br>**Login [here](https://www.hpc.iastate.edu/guides/classroom-hpc-cluster/jupyterhub) and start running notebooks.** From a terminal you can login using `yourname` NetID:  ssh yourname@hpc-class.its.iastate.edu 
+- Open them in GoogleCollab. Cons: No installation required just open and run. Pros: notebooks have to live in GoogleDrive
 
-Alternatively you have the following options:
-
-- Launch the binder and run the notebooks in the cloud (change won't be saved unless you download notebooks).
-
-- Download files, create a separate conda environment using `enviroanment.yml` and run notebooks locally in your computer.
+- Download files, create a separate conda environment using `enviroanment.yml` and run notebooks locally in your computer. Cons: notebooks are stored locally with more controll over files and environments. Pros: will be using local memory for comptutation.
 
 
 ### 2. How to use git to update local copy of the repository
@@ -36,16 +32,12 @@ $ git clone https://github.com/DPotoyan/Chem563.git
 ```
 A new folder called Chem563 will be created. Enter it and run `jupyter-notebook` or `jupyter-lab`
 ```bash
-$ cd Chem563/
-$ jupyter-notebok 
+$ jupyter-lab 
 ```
 
-To update your local copy do the following: 
+To update your local copy do the following (overwrites the contents so keep a separate folder for your own files, HW, projects etc): 
 
 ```bash
 $ cd  Chem563/
 $ git pull
 ```
-If you want to save change to your notebooks/files make sure to **rename them**  to avoid overwritting.
-
-### 
