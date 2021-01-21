@@ -1,7 +1,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPotoyan/Chem563/master)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://mybinder.org/v2/gh/DPotoyan/Chem563/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
 
 # Materials for the course Chem563: Statistical Mechanics, ISU Spring 2021 
 
