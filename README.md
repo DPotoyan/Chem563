@@ -1,6 +1,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPotoyan/Chem563/master)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://mybinder.org/v2/gh/DPotoyan/Chem563/master)
+
 # Materials for the course Chem563: Statistical Mechanics, ISU Spring 2021 
 
 **Instructor:** Davit Potoyan
