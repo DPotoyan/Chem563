@@ -1,11 +1,9 @@
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPotoyan/Chem563/master)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//DPotoyan/Chem563/blob/master/00_Intro2Py/00_Welcome2Chem563.ipynb)
-
 # Materials for the course Chem563: Statistical Mechanics, ISU Spring 2021 
 
-**Instructor:** Davit Potoyan
+### Instructor: Dr. Davit Potoyan
+
+Attention!! The contents are currently being updated and moved to the [Web](https://dpotoyan.github.io/Statmech4ChemBio/intro.html) which is set to become the default place for the class.
 
 ---
 
