@@ -3,7 +3,7 @@
 
 ### Instructor: Dr. Davit Potoyan
 
-Attention!! The contents are currently being updated and moved to the [Web](https://dpotoyan.github.io/Statmech4ChemBio/intro.html) which is set to become the default place for the class.
+**Attention!!! The contents are currently being updated and moved to the [Web](https://dpotoyan.github.io/Statmech4ChemBio/intro.html) which is set to become the default place for the class.**
 
 ---
 
